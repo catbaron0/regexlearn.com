@@ -48,10 +48,10 @@
   "cheatsheet.nonCapturingGroup.description": "创建无法引用的分组。",
 
   "cheatsheet.lookarounds": "零宽断言",
-  "cheatsheet.positiveLookahead.title": "正向先行断言",
-  "cheatsheet.negativeLookahead.title": "负向先行断言",
-  "cheatsheet.positiveLookbehind.title": "正向后行断言",
-  "cheatsheet.negativeLookbehind.title": "负向后行断言",
+  "cheatsheet.positiveLookahead.title": "先行肯定断言",
+  "cheatsheet.negativeLookahead.title": "先行否定断言",
+  "cheatsheet.positiveLookbehind.title": "后行肯定断言",
+  "cheatsheet.negativeLookbehind.title": "后行否定断言",
 
   "cheatsheet.quantifiersAndAlternation": "量词与分支",
   "cheatsheet.plus.title": "加号",
